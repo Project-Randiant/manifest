@@ -1,11 +1,11 @@
-# Project Radiant #
+# Project Randiant #
 
 ### Sync ###
 
 ```bash
 
 # Initialize local repository
-repo init -u https://github.com/ProjectRadiant/manifest -b twelve
+repo init -u https://github.com/Project-Randiant/manifest -b twelve
 
 # Sync
 repo sync -c -j$(nproc --all) --force-sync --no-clone-bundle --no-tags -v
@@ -19,7 +19,7 @@ repo sync -c -j$(nproc --all) --force-sync --no-clone-bundle --no-tags -v
 $ . build/envsetup.sh
 
 # Choose a target
-$ lunch radiant_$device-$type
+$ lunch randiant_$device-$type
 
 # Build the code
 $ mka bacon -j$
@@ -37,4 +37,4 @@ $ mka bacon -j$
 
 
 # Apply for Official # 
-If you would like to apply for official, then feel free to take a look [here](https://github.com/ProjectRadiant/official_devices).
+Though i don't take build bots because i am god developer now i just asked how to build my own custom rom in android builder group but later i have done so much now i am god developer and build bot's are not allowed in my team. I will take exam before letting you in if you pass welcome else you can just see my cringe gifs and join my channel and group with over 2k+ subscribers and 950+ members in Original Radiant chat but in my chat i just opened so sorry non are there but sponsers you check chek my stats. by the way we have achieved this after joining project radiant else i won't have this much also xD just 15 years old kids will join me oh shit even jobless forigners kids also joining me yeah thanks buddy though you will not get anything or credit to work behind the scenes because all the stuff is done by me not mentioned in channel also hah yeah. 
